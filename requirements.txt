@@ -1,0 +1,29 @@
+hyprland
+hypridle
+hyprlock
+hyprctl
+hyprpaper
+wofi
+swaync
+hyprshot(yay)
+
+#Screenshare
+xdg-desktop-portal-hyprland
+wireplumber
+grim
+slurp
+
+#brightness and Sound Control
+pavucontrol
+brightnessctl
+
+# System Themes
+lxappearance
+qt5ct
+qt6ct
+qt5-wayland
+qt6-wayland
+
+# Clipboard
+wl-clipboard
+cliphist
