@@ -23,7 +23,14 @@ qt5ct
 qt6ct
 qt5-wayland
 qt6-wayland
+gnome-themes-extra
 
 # Clipboard
 wl-clipboard
 cliphist
+
+# Network
+networkmanager
+
+# Bluetooth
+blueman
