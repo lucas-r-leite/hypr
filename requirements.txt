@@ -24,6 +24,7 @@ qt6ct
 qt5-wayland
 qt6-wayland
 gnome-themes-extra
+ttf-tinos-nerd
 
 # Clipboard
 wl-clipboard
